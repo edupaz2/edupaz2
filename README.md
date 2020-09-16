@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Eduardo Paz 👋
+
+- 🔭 I’m currently working @ Pix4D.
 
 <!--
 **edupaz2/edupaz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
