@@ -1,6 +1,7 @@
 ### Hi there, I'm Eduardo Paz 👋
 
-- 🔭 I’m currently working @ Pix4D.
+- 🔭 I’m currently working on [Pix4Dscan](https://www.pix4d.com/product/pix4dscan-drone-flight-inspection-software) @ [Pix4D](https://www.pix4d.com/). [Github account](https://github.com/edupazpix4d).
+- [LinkedIn](https://www.linkedin.com/in/edupaz/).
 
 <!--
 **edupaz2/edupaz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
