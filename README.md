@@ -1,6 +1,6 @@
 ### Hi there, I'm Eduardo Paz 👋
 
-- 🔭 I’m currently working on [Pix4Dscan](https://www.pix4d.com/product/pix4dscan-drone-flight-inspection-software) @ [Pix4D](https://www.pix4d.com/). [Github account](https://github.com/edupazpix4d).
+- 🔭 I’m currently working on [PIX4Dcapture Pro]([https://www.pix4d.com/product/pix4dscan-drone-flight-inspection-software](https://www.pix4d.com/product/pix4dcapture/)) @ [Pix4D](https://www.pix4d.com/). [Github account](https://github.com/edupazpix4d).
 - [LinkedIn](https://www.linkedin.com/in/edupaz/).
 
 <!--
