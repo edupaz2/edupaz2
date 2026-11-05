@@ -20,7 +20,7 @@ More on my website: **[edupaz2.github.io](https://edupaz2.github.io)**
 ## 🛠️ Tech stack
 
 <!-- Edit the icon list to match your stack: https://skillicons.dev -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=cpp,py,qt,cmake,vim,git,github,ubuntu" alt="Tech stack" />
 
 ## 📊 GitHub stats
 
