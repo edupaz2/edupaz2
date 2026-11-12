@@ -14,6 +14,7 @@ Welcome to my GitHub profile! Here's where to find me and some of the things I'v
 | --- | --- |
 | 🌍 **Blue Zones Around Me** | [edupaz2.github.io/blue_zones_around_me](https://edupaz2.github.io/blue_zones_around_me) |
 | ⚽ **Mastergoal** | [edupaz2.github.io/mastergoal](https://edupaz2.github.io/mastergoal) |
+| 🏒 **The Spengler Cup 2026** | [edupaz2.github.io/the-spengler-cup-2026](https://edupaz2.github.io/the-spengler-cup-2026) |
 
 More on my website: **[edupaz2.github.io](https://edupaz2.github.io)**
 
